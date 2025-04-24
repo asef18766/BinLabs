@@ -1,0 +1,12 @@
+{
+    "name": "frida-container",
+    "version": "1.0.0",
+    "description": "",
+    "private": true,
+    "main": "index.ts",
+    "devDependencies": {
+      "@types/frida-gum": "^18.5.1",
+      "@types/node": "^18.19.3",
+      "frida-compile": "^16.4.1"
+    }
+  }
